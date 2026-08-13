@@ -8,8 +8,8 @@ The project uses an isolated virtual environment to simulate attacker
 and victim activity and progressively integrates security monitoring
 and detection technologies.
 
----
 
+---
 ## Project Objectives
 
 - Build an isolated SOC environment using virtualization
@@ -23,8 +23,8 @@ and detection technologies.
 - Develop incident response workflows
 - Explore security automation and SOAR concepts
 
----
 
+---
 ## Lab Architecture
 
 The lab is built using VirtualBox and an isolated Host-Only network.
@@ -56,7 +56,6 @@ The lab is built using VirtualBox and an isolated Host-Only network.
 
 
 ---
-
 ## Lab Environment
 
 | Component | Role |
@@ -73,8 +72,8 @@ The lab is built using VirtualBox and an isolated Host-Only network.
 | SOAR | Security automation and response |
 
 
----
 
+---
 ## Network Configuration
 
 | Device | IP Address | Role |
@@ -91,7 +90,6 @@ security testing between the virtual machines.
 
 
 ---
-
 ## Current Investigations
 
 ### Incident 001 — Network Reconnaissance
@@ -126,7 +124,6 @@ and investigation using network monitoring and SIEM technologies.
 
 
 ---
-
 ## Technologies:
 
 ### Virtualization
@@ -159,7 +156,6 @@ and investigation using network monitoring and SIEM technologies.
 
 
 ---
-
 ## Project Progress:
 
 ### Completed
@@ -191,7 +187,6 @@ and investigation using network monitoring and SIEM technologies.
 
 
 ---
-
 ## Skills Demonstrated
 
 - SOC operations
@@ -213,7 +208,6 @@ and investigation using network monitoring and SIEM technologies.
 
 
 ---
-
 ## Documentation
 
 Detailed documentation is maintained throughout the project, including
