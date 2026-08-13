@@ -54,6 +54,9 @@ The lab is built using VirtualBox and an isolated Host-Only network.
 
 
 
+
+---
+
 ## Lab Environment
 
 | Component | Role |
@@ -69,6 +72,7 @@ The lab is built using VirtualBox and an isolated Host-Only network.
 | Sysmon | Windows endpoint telemetry |
 | SOAR | Security automation and response |
 
+
 ---
 
 ## Network Configuration
@@ -83,6 +87,8 @@ Network: `192.168.56.0/24`
 
 The Host-Only network provides an isolated environment for controlled
 security testing between the virtual machines.
+
+
 
 ---
 
@@ -119,9 +125,9 @@ and investigation using network monitoring and SIEM technologies.
 
 
 
+---
 
-
-## Technologies
+## Technologies:
 
 ### Virtualization
 
@@ -152,10 +158,9 @@ and investigation using network monitoring and SIEM technologies.
 
 
 
+---
 
-
-
-## Project Progress
+## Project Progress:
 
 ### Completed
 
@@ -185,7 +190,7 @@ and investigation using network monitoring and SIEM technologies.
 
 
 
-
+---
 
 ## Skills Demonstrated
 
@@ -206,6 +211,8 @@ and investigation using network monitoring and SIEM technologies.
 - Technical troubleshooting
 
 
+
+---
 
 ## Documentation
 
