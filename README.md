@@ -24,12 +24,10 @@ and detection technologies.
 - Explore security automation and SOAR concepts
 
 
----
-## Lab Architecture
 
-The lab is built using VirtualBox and an isolated Host-Only network.
+--- Lab Architecture
 
-```text
+
                          VirtualBox
                              │
                   Host-Only SOC Network
