@@ -1,0 +1,3 @@
+08/13/2026-22:09:47.350125  [**] [1:1000001:1] SOC LAB - Possible TCP Port Scan [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.56.102:62908 -> 192.168.56.101:21
+08/13/2026-22:09:56.385944  [**] [1:1000001:1] SOC LAB - Possible TCP Port Scan [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.56.102:62908 -> 192.168.56.101:2968
+08/13/2026-22:10:06.434101  [**] [1:1000001:1] SOC LAB - Possible TCP Port Scan [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.56.102:62908 -> 192.168.56.101:2106

@@ -1,0 +1,1 @@
+alert tcp 192.168.56.102 any -> 192.168.56.101 any (msg:"SOC LAB - Possible TCP Port Scan"; flags:S; threshold:type both, track by_src, count 20, seconds 10; sid:1000001; rev:1;)
